@@ -5,6 +5,7 @@ Users can register, send and receive emails, archive, reply, and navigate betwee
 
 [![Watch Demo](https://img.youtube.com/vi/Pv-_2s4_Ei0/0.jpg)](https://youtu.be/Pv-_2s4_Ei0)
 
+
 ---
 🏷 Features
 
@@ -34,9 +35,6 @@ POST /emails — Send a new email (recipients, subject, body)
 
 PUT /emails/<email_id> — Update email status (read/archived)
 
-🎬 Demo
-
-Watch the demo: https://youtu.be/Pv-_2s4_Ei0
 
 💡 Notes
 
